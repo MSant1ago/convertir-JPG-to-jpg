@@ -47,5 +47,4 @@ foto1.JPG -> foto1.jpg
 - No modifica el contenido binario de las imágenes
 
 ## Autor
-Ing. Miguel S. Jingo \
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Ing. Miguel S. Jingo
