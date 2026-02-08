@@ -22,18 +22,14 @@ Este script convierte masivamente archivos con extensión `.JPG` a `.jpg`, estan
 
 ```bash
 # Clonar o descargar el script
-wget https://raw.githubusercontent.com/tu-usuario/tu-repo/main/convertir-JPG-to-jpg.sh
+curl -O https://raw.githubusercontent.com/MSant1ago/convertir-JPG-to-jpg/main/convertir-JPG-to-jpg.sh
 
-# Dar permisos de ejecución
-chmod +x convertir-JPG-to-jpg.sh
-```
+# Uso
 
-## Uso
-
-1. Coloca el script en el directorio que contiene los archivos `.JPG` a transformar
+1. Coloca el script en el directorio que contiene los archivos .JPG a transformar
 2. Ejecuta el script:
 
-```bash
+# En bash
 ./convertir-JPG-to-jpg.sh
 ```
 
@@ -61,8 +57,4 @@ foto1.JPG -> foto1.jpg
 
 ## Autor
 
-Miguel S. Jingo
-
-## Licencia
-
-Dominio Público.- Este script se distribuye como software de dominio público; es decir que cualquier persona puede usar, modificar y distribuir este código libremente bajo su propia responsabilidad. El **AUTOR** no proporciona garantías de ningún tipo y no se hace responsable por cualquier daño o pérdida de datos que pueda resultar del uso de este software, su uso es bajo su propia responsabilidad.
+Ing. Miguel S. Jingo
