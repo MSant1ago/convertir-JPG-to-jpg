@@ -27,7 +27,7 @@ curl -O https://raw.githubusercontent.com/MSant1ago/convertir-JPG-to-jpg/main/co
 ./convertir-JPG-to-jpg.sh
 ```
 
-El script procesará automáticamente todos los archivos con extensión `.JPG` en el directorio actual y se cerrara automaticamente al terminar
+El script procesará automáticamente todos los archivos con extensión `.JPG` en el directorio actual y se cerrara automáticamente al terminar
 
 ## Ejemplo
 **Antes y Después:**
@@ -36,10 +36,10 @@ foto1.JPG -> foto1.jpg
 ```
 
 ## Precauciones
-- El script **sobrescribe** los nombres de archivo originales cambiando la extencion `.jpg`
+- El script **sobrescribe** los nombres de archivo originales cambiando la extensión `.jpg`
 - Asegúrate de tener una copia de seguridad antes de ejecutar (Opcional)
 - Solo procesa archivos en el directorio actual (No subdirectorios)
-- Si ya existe un archivo con la extencion `.jpg` el ejecutable los ignora automaticamente.
+- Si ya existe un archivo con la extensión `.jpg` el ejecutable los ignora automáticamente.
 
 ## Notas técnicas
 - Versión: 1.0.0
@@ -48,3 +48,4 @@ foto1.JPG -> foto1.jpg
 
 ## Autor
 Ing. Miguel S. Jingo
+*Imbabura - Ecuador*
