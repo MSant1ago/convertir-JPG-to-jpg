@@ -47,5 +47,4 @@ foto1.JPG -> foto1.jpg
 - No modifica el contenido binario de las imágenes
 
 ## Autor
-Ing. Miguel S. Jingo \
-*Imbabura - Ecuador*
+- Imbabura - Ecuador
